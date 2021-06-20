@@ -1,3 +1,4 @@
+// Board Struct for TicTacGo
 package board
 
 import "fmt"
